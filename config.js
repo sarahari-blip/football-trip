@@ -5,7 +5,7 @@ globalThis.FT = globalThis.FT || {};
 globalThis.FT.config = {
   mode: 'demo',
   analytics: {
-    gtm: '',      // Googleタグマネージャー  例: 'GTM-XXXXXXX'
+    gtm: 'GTM-WWJXPC3M', // Googleタグマネージャー  例: 'GTM-XXXXXXX'
     ga4: '',      // Googleアナリティクス4   例: 'G-XXXXXXXXXX'
     clarity: '',  // Microsoft Clarity       例: 'abcdefghij'
     // サーチコンソールは index.html の <head> にある確認用タグ（コメント部分）を有効にします
